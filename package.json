@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OlehFilyak/nodejs-the-comlete-guide/issues"
   },
-  "homepage": "https://github.com/OlehFilyak/nodejs-the-comlete-guide#readme"
+  "homepage": "https://github.com/OlehFilyak/nodejs-the-comlete-guide#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
 }
